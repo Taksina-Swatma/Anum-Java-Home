@@ -1,0 +1,125 @@
+
+body{background-color: #3b6978}
+
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+	color:black;
+  }
+
+.quick-links {
+  background: linear-gradient(to right, #18b0b0,#fe346e);
+
+}
+.quick-links ul{
+  display: inline-flex;
+  margin: 30px auto;
+ 
+}
+.quick-links ul li{
+  
+  margin: 0 25px;
+  
+}
+.quick-links ul li {
+  font-size: 25px;
+  color: #fff;
+  border-radius: 50px 
+  border: 1px solid #999;
+  padding: 5px;
+  display: block;
+}
+
+
+.Menu{
+background-color :#679b9b;
+}
+.menu {
+	
+	padding-top: 50px;
+	
+	padding-bottom: 50px; 
+}
+.menu span {
+	background-color: #2b580c;
+	padding: 10px ; 
+	
+	}
+.menu h3 {
+		display: inline ;
+		padding : 5px; 
+	}	
+.app-text h1 {
+	padding-left: 50px;
+	
+	}
+.app-text p {
+	padding : 50px;
+	font-size : larger; 
+	}
+.app-text img {
+	border-radius: 25% 10%;	
+	margin-left: 50px;
+	margin-bottom: 50px;
+	}
+
+.banner {
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+	}
+.product1  {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+.product2 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+.product3 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+.product4 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+.product5 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+  
+.body1 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+
+.body2 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+.body3 {
+	margin-left : 200px ;
+	margin-top : 100px ;
+	padding: 30px;
+	margin-right : 200px;
+	}
+	
+.form form-Taksina {
+	input type = "black"	
+	}	
+
